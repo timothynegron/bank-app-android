@@ -15,6 +15,7 @@ Has a button that lets you add a new account. Go ahead and give yourself $50,000
 
 ### Built With
 
+* Java
 * Recyclerview
 * Fragments
 
@@ -37,22 +38,10 @@ the *account info activity*. All content is stored in fragments.
 ### Images
 
 #### Main Activity
-![Image of Main Activity](
-)
-V#### Account List Activity (Before adding an account)
-![Image of Account list Activity]()
+![Image of Main Activity](assets/main-activity.png)
+
+#### Account List Activity
+![Image of Account list Activity](assets/account-list.png)
 
 #### Add Account Activity
-![Image of Add Account Activity]()
-
-#### Add Account (Adding Information)
-![Image of Add Account Activity]()
-
-#### Account List Activity (After adding a test account)
-![Image of Add Account Activity]()
-
-#### Account Detail Activity (Checking two)
-![Image of Add Account Activity]()
-
-#### Bank Account App Info Activity
-![Image of Add Account Activity]()
+![Image of Add Account Activity](assets/add-account-activity.png)
