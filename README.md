@@ -45,3 +45,6 @@ the *account info activity*. All content is stored in fragments.
 
 #### Add Account Activity
 ![Image of Add Account Activity](assets/add-account-activity.png)
+
+#### Landscape Mode
+![Image of Landscape Mode](assets/landscape-mode.png)
